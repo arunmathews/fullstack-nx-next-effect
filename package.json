@@ -28,6 +28,7 @@
     "api"
   ],
   "dependencies": {
+    "@effect/platform": "^0.77.1",
     "effect": "^3.13.1",
     "next": "~15.1.4",
     "react": "19.0.0",
