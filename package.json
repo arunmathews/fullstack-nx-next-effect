@@ -21,5 +21,7 @@
     "packages/*",
     "apps/*"
   ],
-  "dependencies": {}
+  "dependencies": {
+    "effect": "^3.13.1"
+  }
 }
