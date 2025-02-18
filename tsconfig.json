@@ -5,6 +5,9 @@
   "references": [
     {
       "path": "./apps/effect-server"
+    },
+    {
+      "path": "./apps/next-client"
     }
   ]
 }
