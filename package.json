@@ -24,7 +24,8 @@
   },
   "workspaces": [
     "packages/*",
-    "apps/*"
+    "apps/*",
+    "api"
   ],
   "dependencies": {
     "effect": "^3.13.1",
